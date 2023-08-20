@@ -1,6 +1,6 @@
 # Image Caption Generator
 
-A neural network to generate captions for an image using CNN and RNN with BEAM, created as part of the project for DS303: Introduction to Machine Learning course
+A neural network to generate captions for an image using CNN and RNN with BEAM, created as part of the project for DS303: Introduction to Machine Learning course.
 
 
 # Content ->
